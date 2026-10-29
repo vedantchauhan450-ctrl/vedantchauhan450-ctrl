@@ -1,0 +1,27 @@
+# 💫 About Me:
+Hi, I'm Vedant Chauhan 👋<br><br>M.Sc. Operational Research Student | Aspiring Data Scientist | Machine Learning & Analytics Enthusiast<br><br>I'm currently pursuing my Master's in Operational Research at Kirori Mal College, University of Delhi, after completing my Bachelor's in Mathematical Science from Deen Dayal Upadhyaya College, University of Delhi.<br><br>I'm passionate about using data, statistical methods, and machine learning to solve real-world problems, uncover meaningful insights, and support data-driven decision-making.<br><br>🚀 About Me<br><br>- 🎓 Pursuing M.Sc. Operational Research at the University of Delhi.<br>- 📊 Interested in Data Science, Machine Learning, Statistical Analysis, and Business Analytics.<br>- 💻 Exploring Python, SQL, R, Microsoft Excel, Power BI, and Tableau.<br>- 🤖 Learning about Artificial Intelligence, Generative AI, and emerging technologies.<br>- 🏗️ Interested in applying machine learning to real-world problems, including fake news detection and real estate price prediction.<br>- 📈 Enjoy transforming data into actionable insights and meaningful solutions.<br>- 🌱 Committed to continuous learning, experimentation, and building practical projects.<br><br>🛠️ Technical Skills<br><br>- Programming: Python, R, SQL<br>- Data Analysis: Microsoft Excel, Statistical Analysis, Data Interpretation<br>- Data Visualization & BI: Power BI, Tableau<br>- Core Areas: Data Science, Machine Learning, Probability & Statistics, Business Analytics<br>- Emerging Technologies: Artificial Intelligence, Generative AI, Cloud Computing<br><br>📂 Featured Projects<br><br>1. Fake News Classification<br><br>- Exploring machine learning and Natural Language Processing (NLP) for classifying news articles.<br>- Focused on text processing, feature extraction, model evaluation, and misinformation detection.<br><br>2. Real Estate: Algorithmic Property Valuation<br><br>- Exploring machine learning techniques to estimate property values using relevant real estate features.<br>- Focused on data analysis, predictive modelling, and data-driven valuation.<br><br>🏅 Certifications & Learning<br><br>- Python Programming — Cisco Networking Academy<br>- SQL Certification Course — Intellipaat<br>- R Programming — Intellipaat<br>- Business Analytics with Excel — Microsoft<br>- Power BI Data Modeling Fundamentals — Microsoft<br>- Tableau Fundamentals — upGrad<br>- Probability and Statistics — Unstop<br>- Generative AI Fundamentals — upGrad<br><br>🎯 My Goal<br><br>To strengthen my skills in data science, statistical modelling, and machine learning by building practical projects that connect mathematical concepts with real-world applications.<br><br>🤝 Let's Connect<br><br>I'm always interested in learning, collaborating on projects, and exploring opportunities in Data Science, Analytics, and Machine Learning.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vedant Chauhan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vedant9255) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantchauhan450@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vedantchauhan450-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vedantchauhan450-ctrl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedantchauhan450-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vedantchauhan450-ctrl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vedantchauhan450-ctrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=vedantchauhan450-ctrl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
